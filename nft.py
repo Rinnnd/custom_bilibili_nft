@@ -9,9 +9,9 @@ import json
 import qrcode
 import io
 
-UID = 0  # 你的UID
+UID = 88565611  # 你的UID
 # TV端access_key获取工具 https://github.com/XiaoMiku01/fansMedalHelper/releases/tag/logintool)
-ACCESS_KEY = ""  # 你的ACCESS_KEY (TV端,非TV端自行更换下面的APPKEY,APPSECRET
+ACCESS_KEY = "0518184865090bc2f276009b2288ac11"  # 你的ACCESS_KEY (TV端,非TV端自行更换下面的APPKEY,APPSECRET
 FACE_PATH = r"face.jpg"  # 头像路径 推荐正方形
 BG_PATH = r"background.jpg"  # 背景图路径 推荐 9:16 竖版原图 效果非常好
 
